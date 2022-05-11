@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ric</h1>
 <h3 align="center">A passionate full stack software engineer</h3>
 
-- 🌱 I’m currently learning **D3**
+- 🌱 I’m currently learning **D3 to better visualize data**
 
 - 👨‍💻 All of my projects are available at [https://putgang-portfolio.netlify.app](https://putgang-portfolio.netlify.app)
 
